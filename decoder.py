@@ -56,7 +56,7 @@ def decode():
         for x in range(len(poss)):
 
             letters = poss["word %d"%(x+1)]
-#this is just a test to see if github is working
+
             def radixconvert(a, b): #This function converts a decimal number into a number with a specified radix set
 
             #a is the number to be converted. b is the radix set
