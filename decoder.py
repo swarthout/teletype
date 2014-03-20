@@ -4,8 +4,8 @@ TELE-TYPE
 This is a program that decodes telephone word codes. It inputs a string of numbers and outputs an array of possible solutions for each code word. For example, if you input 43556, it will output happy!
 
 BETA VERSION
-Created by: Scott Swarthout
-Notable Associates: Sophia Farquhar
+Created by: Scott "Beamer" Swarthout
+Notable Associates: Sophia "Cupcake" Farquhar
 
 
 """
