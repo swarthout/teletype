@@ -5,8 +5,8 @@ This is a program that encodes telephone word codes. It inputs a string of text 
 For example, if you input "I love computer programming", it will output 405683026678837077647266464.
 
 BETA VERSION
-Created by: Scott Swarthout
-Notable Associates: Sophia Farquhar
+Created by: Scott "Beamer" Swarthout
+Notable Associates: Sophia "Cupcake" Farquhar
 """
 
 
