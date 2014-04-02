@@ -12,11 +12,13 @@ Notable Associates: Sophia "Cupcake" Farquhar
 
 #These are the two dictionaries used for translating the code. big_list is the full english dictionary including names and places.
 #small_list is a list of the most commmonly used words in the english language.
-big_list = open("C:\\Users\\Scott Swarthout\\PycharmProjects\\teletype\\long word list.txt").read()
+big_list = open("long word list.rtf").read()
 big_list = big_list.lower()
+big_list = big_list.replace("\\","")
 big_list = big_list.split()
-small_list = open("C:\\Users\\Scott Swarthout\\PycharmProjects\\teletype\\frequency list.TXT").read()
+small_list = open("frequency list.rtf").read()
 small_list = small_list.lower()
+small_list = small_list.replace("\\","")
 small_list = small_list.split()
 import time
 
